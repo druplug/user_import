@@ -1,0 +1,5 @@
+; $Id: user_import.info,v 1.8 2009/09/20 01:59:29 MegaGrunt Exp $ 
+name = User Import
+description = Import users into Drupal from a CSV file.
+core = 7.x 
+
